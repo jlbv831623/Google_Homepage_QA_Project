@@ -1,0 +1,2 @@
+ID | Description                | Steps to Reproduce               | Expected Result         | Actual Result   | Priority
+01 | Search button unresponsive | Click search without typing text | Show empty results page | Nothing happens | Medium
