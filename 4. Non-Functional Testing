@@ -1,0 +1,5 @@
+- Performance: Use tools like Lighthouse or PageSpeed Insights to analyze load time and responsiveness.
+
+- Accessibility: Verify with screen readers and accessibility tools (e.g., WAVE, axe).
+
+- Responsiveness: Test the layout using Chrome DevTools device simulator.
