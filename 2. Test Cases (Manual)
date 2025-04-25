@@ -1,0 +1,35 @@
+Test Case 1: Homepage Load
+Steps: Navigate to www.google.com
+
+Expected Result: Page loads in under 3 seconds with no errors.
+
+Priority: High
+
+Test Case 2: Google Logo Display
+Steps: Check if the Google logo is visible and clickable.
+
+Expected Result: Logo is displayed and redirects to homepage when clicked.
+
+Priority: Medium
+
+Test Case 3: Search Functionality
+Steps: Type a query (e.g., "OpenAI") and hit Enter.
+
+Expected Result: Search results load with relevant links.
+
+Priority: High
+
+Test Case 4: “I’m Feeling Lucky” Button
+Steps: Enter a query and click "I’m Feeling Lucky".
+
+Expected Result: Redirects to the top search result directly.
+
+Priority: Medium
+
+Test Case 5: Language Change
+Steps: Scroll down and change language.
+
+Expected Result: Homepage language updates accordingly.
+
+Priority: Low
+
