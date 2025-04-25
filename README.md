@@ -12,3 +12,8 @@ Objective	Verify that the homepage loads properly and search works
 Scope	Manual and automated UI/functionality tests
 Browsers	Chrome, Firefox, Safari, Edge
 Devices	Desktop, Tablet, Mobile
+
+✅ 2. Test Cases (Manual)
+🤖 3. Test Automation (Selenium Example in Python)
+📊 4. Non-Functional Testing
+🧼 5. Bug Reporting
